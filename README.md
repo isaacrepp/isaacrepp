@@ -1,4 +1,6 @@
-Hi there, I'm Isaac 👋
+# Hi there, I'm Isaac 👋
+
+## Download my resume [here](https://rawcdn.githack.com/isaacrepp/isaacrepp/f9643a4841045707248ab58419e3f747cccb97ac/resume%20updated.pdf).
 
 Aspiring business student
 
@@ -26,5 +28,5 @@ Aspiring business student
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/isaac-repp-2208873ab)
-* **Email:** [your.email@university.edu](irepp25@bw.edu)
+* **LinkedIn:** [Isaac Repp (linkedin)](www.linkedin.com/in/isaac-repp-2208873ab)
+* **Email:** [irepp25@bw.edu](irepp25@bw.edu)
